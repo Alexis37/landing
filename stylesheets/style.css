@@ -1,0 +1,29 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.orange{
+	color: orange;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+#test a {
+	font-size: 30px;
+
+}
+
+.container{
+	min-height: 700px;
+}
+
+#footer{
+	padding: 20px;
+	background: rgb(239,237,222);
+	color: red;
+	;
+
+
+
